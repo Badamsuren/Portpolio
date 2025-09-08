@@ -26,7 +26,7 @@ export const personalInfo = {
   // Танилцуулга / Bio descriptions
   bio: "web development. Fluent in Japanese (N2 level). Currently working as 運用管理 at Sony Japanese company.",
   
-  longBio: "web development 2years at Chinese company. Fluent in Japanese (N2 level). Currently working as 運用管理 at Sony Japanese company.",
+  longBio: "Web development 2years at Chinese company. Fluent in Japanese (N2 level). Currently working as 運用管理 at Sony Japanese company.",
   
   description: "web development 2years at Chinese company. Fluent in Japanese (N2 level). Currently working as 運用管理 at Sony Japanese company.",
   
