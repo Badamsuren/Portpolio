@@ -6,39 +6,39 @@ import { Mail, Phone, MapPin, Clock, Coffee } from "lucide-react";
 // Энд өөрийн хувийн мэдээллээ оруулна уу / Enter your personal information here
 export const personalInfo = {
   // Үндсэн мэдээлэл / Basic Information
-  name: "Ulamundrakh Baljirlkhundev",
-  nickname: "Baljir", // Товч нэр / Short name
-  nameJapanese: "ウラムウンダラハ バルジルフンデブ", // Япон хэл дээрх нэр / Japanese name
+  name: "Ganbaatar Badmaa",
+  nickname: "Badmaa", // Товч нэр / Short name
+  nameJapanese: "ガンバータル バダム", // Япон хэл дээрх нэр / Japanese name
   title: " Full-Stack Developer", // Албан тушаал / Job title
   
   // Холбоо барих мэдээлэл / Contact Information
-  email: "baljir0901@gmail.com",
-  phone: "090-3332-9900",
+  email: "bb0292134@gmail.com",
+  phone: "090-9294-5794",
   location: "Tokyo, Japan",
   address: "Tokyo, Japan",
   
   // Хувийн мэдээлэл / Personal Details
   nationality: "Mongolia",
-  dateOfBirth: "1995年09月01日",
+  dateOfBirth: "1995年04月12日",
   age: 30,
-  gender: "Male",
+  gender: "Female",
   
   // Танилцуулга / Bio descriptions
-  bio: "Full-stack developer with 6+ years of experience in web development, automation engineering, and mining technology. Fluent in Japanese (N2 level), English, and Mongolian. Currently working as System Engineer at VMP Japanese company while developing modern web applications using React, Next.js, and various backend technologies.",
+  bio: "web development. Fluent in Japanese (N2 level). Currently working as 運用管理 at Sony Japanese company.",
   
-  longBio: "I am a dedicated full-stack developer with extensive experience spanning web development, industrial automation, and mining technology. My journey began in Mongolia where I studied automation engineering and gained hands-on experience with automation systems. After completing exchange studies at Shibaura Institute of Technology in Japan, I developed a passion for combining traditional engineering with modern software development. Currently based in Tokyo, Japan, I work as a System Engineer at VMP Japanese company while pursuing freelance web development projects. My multilingual abilities (Japanese N2, English, Mongolian) and cross-cultural experience enable me to work effectively with diverse teams and clients. I specialize in PHP, JavaScript, React, and have deep expertise in industrial automation and mining software solutions.",
+  longBio: "web development 2years at Chinese company. Fluent in Japanese (N2 level). Currently working as 運用管理 at Sony Japanese company.",
   
-  description: "Experienced full-stack developer with expertise in modern web technologies, automation engineering, and multilingual development",
+  description: "web development 2years at Chinese company. Fluent in Japanese (N2 level). Currently working as 運用管理 at Sony Japanese company.",
   
   // Зураг / Images
   avatar: "/portfolio.jpg", // public фолдер дотор байрлуулна / Place in public folder
   resumeUrl: "/rireksho-blank.pdf", // CV файлын зам / CV file path
   
   // Статистик / Statistics
-  yearsOfExperience: 6,
-  projectsCompleted: 30,
-  technologiesMastered: 20,
-  githubContributions: 800,
+  yearsOfExperience: 2,
+  projectsCompleted: 3,
+  technologiesMastered: 2,
+  githubContributions: 80,
   
   // Ажлын статус / Work Status
   availability: "Available for freelance projects",
@@ -46,46 +46,42 @@ export const personalInfo = {
   // Хэлний мэдлэг / Language Skills
   languages: [
     { name: "Japanese", level: "N2", proficiency: 85 },
-    { name: "English", level: "TOEIC 670", proficiency: 80 },
-    { name: "Mongolian", level: "Native", proficiency: 100 }
+    { name: "Mongolian", level: "Native", proficiency: 100 },
   ],
   
   // Сонирхол / Interests
   interests: [
-    "Mountain Hiking - Active hiker since university, achieved Sports Merit 3rd grade, climbed Mount Fuji",
-    "Language Learning - Member of Toastmasters International for English conversation and speech contests",
-    "Technical Drawing - Skilled in pencil drawing, especially automotive sketches in black and white",
-    "Automotive Technology - Studied automotive technology in Japan and Mongolia, worked in industrial maintenance"
+    "Mountain Hiking - climbed Mount Fuji",
   ],
   
   // Боловсрол / Education
   education: [
     {
       id: 1,
-      degree: "Automation Technology Engineering",
-      institution: "モンゴル科学技術大学",
-      institutionEn: "Mongolia University of Science and Technology",
-      period: "2012年9月 - 2017年1月",
+      degree: "National University of Mongolia",
+      institution: "モンゴル国立大学",
+      institutionEn: "National University of Mongolia",
+      period: "2012年9月 - 2016年4月",
       type: "Bachelor's Degree",
-      description: "Specialized in mining technology engineering with focus on automation systems and industrial processes."
+      description: "Finance and Economics major with coursework in business administration, accounting, and economic theory."
     },
     {
       id: 2,
-      degree: "Exchange Student",
-      institution: "日本の芝浦工業大学",
-      institutionEn: "Shibaura Institute of Technology, Japan",
-      period: "2017年4月 - 2018年3月",
+      degree: "日本語学校",
+      institution: "幕張本郷日本語学校",
+      institutionEn: "Japanese Language School",
+      period: "2018年4月 - 2020年3月",
       type: "Exchange Program",
-      description: "One-year exchange program focusing on advanced engineering technologies and Japanese industrial practices."
+      description: "two-year studied Japanese language for 2 years"
     },
     {
       id: 3,
-      degree: "Master of Business Administration (MBA)",
-      institution: "イデル大学",
-      institutionEn: "Ider University",
+      degree: "IT専門学校",
+      institution: "HAL東京",
+      institutionEn: "HAL Tokyo",
       period: "2020年 - 2022年",
-      type: "Master's Degree",
-      description: "MBA program focusing on business administration, strategic management, and entrepreneurship with emphasis on technology-driven business solutions."
+      type: "College's Degree",
+      description: "Studied web development, programming languages, and software engineering principles."
     }
   ],
   
@@ -103,10 +99,9 @@ export const personalInfo = {
 // =============================================================================
 // Нийгмийн сүлжээ болон гадаад холбоосууд / Social media and external links
 export const socialLinks = {
-  github: "https://github.com/baljir0901",
-  instagram: "https://www.instagram.com/ba1jir_/",
-  facebook: "https://www.facebook.com/Ba1jir",
-  email: "baljir0901@gmail.com",
+  github: "https://github.com/Badamsuren",
+  facebook: "https://www.facebook.com/badansuren.ganba/",
+  email: "bb0292134@gmail.com",
   // Дэмжлэгийн холбоосууд / Support links
   buyMeCoffee: "https://buymeacoffee.com/baljir", // "Buy me a coffee" холбоос / "Buy me a coffee" link
   paypal: "", // PayPal холбоос (хэрэгтэй бол) / PayPal link (if needed)
@@ -564,7 +559,7 @@ export const navigationConfig = {
   // Лого тохиргоо / Logo configuration
   logo: {
     text: personalInfo.nickname,
-    domain: ".online"
+    domain: ".online33"
   }
 };
 
