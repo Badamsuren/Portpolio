@@ -101,6 +101,7 @@ export const personalInfo = {
 export const socialLinks = {
   github: "https://github.com/Badamsuren",
   facebook: "https://www.facebook.com/badansuren.ganba/",
+  instagram: "https://www.instagram.com/", // Instagram холбоос нэмэв
   email: "bb0292134@gmail.com",
   // Дэмжлэгийн холбоосууд / Support links
   buyMeCoffee: "https://buymeacoffee.com/badmaa", // "Buy me a coffee" холбоос / "Buy me a coffee" link
