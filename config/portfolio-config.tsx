@@ -103,7 +103,7 @@ export const socialLinks = {
   facebook: "https://www.facebook.com/badansuren.ganba/",
   email: "bb0292134@gmail.com",
   // Дэмжлэгийн холбоосууд / Support links
-  buyMeCoffee: "https://buymeacoffee.com/baljir", // "Buy me a coffee" холбоос / "Buy me a coffee" link
+  buyMeCoffee: "https://buymeacoffee.com/badmaa", // "Buy me a coffee" холбоос / "Buy me a coffee" link
   paypal: "", // PayPal холбоос (хэрэгтэй бол) / PayPal link (if needed)
   patreon: "", // Patreon холбоос (хэрэгтэй бол) / Patreon link (if needed)
 };
@@ -198,7 +198,7 @@ export const projects = [
     longDescription: "A modern web-based programming education platform designed to help beginners and intermediate developers learn coding through interactive tutorials, hands-on exercises, and real-world projects. Features include multiple programming languages, progress tracking, and community support.",
     image: "/hellobraincode.png",
     technologies: ["React", "Next.js", "TypeScript", "Node.js", "MongoDB", "Tailwind CSS"],
-    githubUrl: "https://github.com/baljir0901/hellobraincode",
+  githubUrl: "https://github.com/badmaa0901/hellobraincode",
     demoUrl: "https://www.hellobraincode.com",
     category: "fullstack",
     features: [
@@ -218,7 +218,7 @@ export const projects = [
     longDescription: "A sophisticated web application focused on cognitive enhancement and brain training exercises. Provides scientifically-backed brain training games, memory improvement techniques, and personalized learning paths to enhance mental performance.",
     image: "/hellobrain.png",
     technologies: ["Vue.js", "PHP", "MySQL", "Chart.js", "Bootstrap", "PWA"],
-    githubUrl: "https://github.com/baljir0901/hellobrain-pro",
+  githubUrl: "https://github.com/badmaa0901/hellobrain-pro",
     demoUrl: "https://www.hellobrain.pro",
     category: "fullstack",
     features: [
@@ -238,7 +238,7 @@ export const projects = [
     longDescription: "A comprehensive typing training application designed to improve typing speed, accuracy, and overall keyboard proficiency. Features various typing tests, lessons, and games to make learning touch typing engaging and effective.",
     image: "/10xtyping.png",
     technologies: ["JavaScript", "HTML5", "CSS3", "Chart.js", "Local Storage", "PWA"],
-    githubUrl: "https://github.com/baljir0901/10xtyping",
+  githubUrl: "https://github.com/badmaa0901/10xtyping",
     demoUrl: "https://www.10xtyping.com",
     category: "frontend",
     features: [
@@ -258,7 +258,7 @@ export const projects = [
     longDescription: "An innovative web platform designed for creative professionals, entrepreneurs, and thinkers to organize, develop, and share their ideas. Provides tools for brainstorming, idea visualization, collaboration, and project planning.",
     image: "/bodol.png",
     technologies: ["React", "Node.js", "Express", "PostgreSQL", "Socket.io", "Material-UI"],
-    githubUrl: "https://github.com/baljir0901/bodol-space",
+  githubUrl: "https://github.com/badmaa0901/bodol-space",
     demoUrl: "https://www.bodol.space",
     category: "fullstack",
     features: [
@@ -278,7 +278,7 @@ export const projects = [
     longDescription: "A powerful web-based PDF utility platform that provides comprehensive PDF processing capabilities including merging, splitting, converting, editing, and optimizing PDF documents. Designed for both personal and professional use with focus on security and ease of use.",
     image: "/pdftatah.png",
     technologies: ["PHP", "JavaScript", "PDF.js", "Bootstrap", "MySQL", "File API"],
-    githubUrl: "https://github.com/baljir0901/pdftatah",
+  githubUrl: "https://github.com/badmaa0901/pdftatah",
     demoUrl: "https://www.pdftatah.online",
     category: "fullstack",
     features: [
@@ -298,7 +298,7 @@ export const projects = [
     longDescription: "A dedicated platform for learning and practicing Japanese language skills. Offers interactive lessons, vocabulary building exercises, grammar tutorials, and speaking practice sessions to help learners of all levels improve their Japanese proficiency.",
     image: "/kitto2.png",
     technologies: ["React", "Next.js", "TypeScript", "Node.js", "Supabase", "Tailwind CSS"],
-    githubUrl: "https://github.com/baljir0901",
+  githubUrl: "https://github.com/badmaa0901",
     demoUrl: "https://www.kittokatsu.pro",
     category: "fullstack",
     features: [
@@ -397,7 +397,7 @@ export const testimonials = [
     initials: "SJ",
     role: "CTO at TechStart",
     company: "TechStart Inc.",
-    content: "Baljir's expertise in full-stack development is exceptional. His automation engineering background brings unique value to web development projects.",
+  content: "Badmaa's expertise in full-stack development is exceptional. Her automation engineering background brings unique value to web development projects.",
     rating: 5,
     image: "https://images.unsplash.com/photo-1494790108755-2616b612b1e1?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
   },
@@ -407,7 +407,7 @@ export const testimonials = [
     initials: "MC",
     role: "Product Manager",
     company: "Innovation Labs",
-    content: "Working with Baljir was a game-changer. His technical skills combined with excellent Japanese language abilities made our project seamless.",
+  content: "Working with Badmaa was a game-changer. Her technical skills combined with excellent Japanese language abilities made our project seamless.",
     rating: 5,
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
   },
@@ -417,7 +417,7 @@ export const testimonials = [
     initials: "ED",
     role: "Engineering Manager",
     company: "NextGen Solutions",
-    content: "Baljir's industrial automation experience combined with modern web development skills delivered exceptional results for our manufacturing system.",
+  content: "Badmaa's industrial automation experience combined with modern web development skills delivered exceptional results for our manufacturing system.",
     rating: 5,
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
   }

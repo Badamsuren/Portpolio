@@ -62,8 +62,8 @@ export default function ContactForm() {
     // EmailJS ашиглан имэйл илгээх / Send email using EmailJS
     emailjs
       .sendForm(
-        "baljir-portfolio", // EmailJS үйлчилгээний ID / EmailJS service ID
-        "baljir-portfolio", // EmailJS загварын ID / EmailJS template ID
+  "badmaa-portfolio", // EmailJS үйлчилгээний ID / EmailJS service ID
+  "badmaa-portfolio", // EmailJS загварын ID / EmailJS template ID
         formRef.current,
         process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY // EmailJS нийтийн түлхүүр / EmailJS public key from env
       )
